@@ -1,0 +1,9 @@
+[submodule "AIFamilyConsultant_NewBackend_runable"]
+	path = AIFamilyConsultant_NewBackend_runable
+	url = https://github.com/Hydro-1217/AI_Family_Counsultant_Backend.git
+[submodule "AIFamilyConsultant_NewFrontend_Admin"]
+	path = AIFamilyConsultant_NewFrontend_Admin
+	url = https://github.com/Hydro-1217/AI_Family_Counsultant_Frontend_Admin.git
+[submodule "AIFamilyConsultant_NewFrontend_User"]
+	path = AIFamilyConsultant_NewFrontend_User
+	url = https://github.com/Hydro-1217/AI_Family_Counsultant_Frontend_User.git
